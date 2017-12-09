@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 20171208113758) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.text     "description"
-    t.string   "title"
+    t.string   "text" 
   end
 
 end
