@@ -23,7 +23,7 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-  background-image: asset-url('mars.jpg');
+  background-image: asset-url('marscity.jpg');
   background-size: cover;
   height: 550px;
 }
@@ -61,4 +61,13 @@ $navbar-default-bg: black;
 .footer ul li {
   float: left;
   margin-left: 15px;
+}
+
+.description {
+  margin-top: 0px;
+}
+
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
 }
